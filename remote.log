@@ -1,0 +1,1 @@
+63a57c9d-188a-4a5f-99ea-ddebc2bff361 autoenable=true bucket=ubc-fresh-femic-tsa40-instance chunk=1GiB datacenter=US encryption=none host=object-arbutus.cloud.computecanada.ca name=arbutus-s3 port=443 protocol=https public=yes publicurl=https://object-arbutus.cloud.computecanada.ca/ubc-fresh-femic-tsa40-instance requeststyle=path storageclass=STANDARD type=S3 timestamp=1791709125s
