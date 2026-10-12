@@ -1,0 +1,61 @@
+*CASE cc
+*SOURCE 40 managed 4001000 ? ?
+*TARGET 40 managed 4001000 bwbs_at 4021000 100
+*SOURCE 40 managed 4001001 ? ?
+*TARGET 40 managed 4001001 bwbs_sb 4001001 100
+*SOURCE 40 managed 4001002 ? ?
+*TARGET 40 managed 4001002 bwbs_pl 4001002 100
+*SOURCE 40 managed 4001003 ? ?
+*TARGET 40 managed 4001003 bwbs_sw 4021003 100
+*SOURCE 40 managed 4001004 ? ?
+*TARGET 40 managed 4001004 essf_sw 4001004 100
+*SOURCE 40 managed 4001005 ? ?
+*TARGET 40 managed 4001005 bwbs_sx 4021005 100
+*SOURCE 40 managed 4001006 ? ?
+*TARGET 40 managed 4001006 swb_sx 4001006 100
+*SOURCE 40 managed 4001007 ? ?
+*TARGET 40 managed 4001007 bwbs_at+sw 4021007 100
+*SOURCE 40 managed 4001008 ? ?
+*TARGET 40 managed 4001008 bwbs_at+pl 4021008 100
+*SOURCE 40 managed 4001009 ? ?
+*TARGET 40 managed 4001009 bwbs_pl+at 4021009 100
+*SOURCE 40 managed 4002000 ? ?
+*TARGET 40 managed 4002000 bwbs_at 4022000 100
+*SOURCE 40 managed 4002001 ? ?
+*TARGET 40 managed 4002001 bwbs_sb 4002001 100
+*SOURCE 40 managed 4002002 ? ?
+*TARGET 40 managed 4002002 bwbs_pl 4022002 100
+*SOURCE 40 managed 4002003 ? ?
+*TARGET 40 managed 4002003 bwbs_sw 4022003 100
+*SOURCE 40 managed 4002004 ? ?
+*TARGET 40 managed 4002004 essf_sw 4022004 100
+*SOURCE 40 managed 4002005 ? ?
+*TARGET 40 managed 4002005 bwbs_sx 4022005 100
+*SOURCE 40 managed 4002006 ? ?
+*TARGET 40 managed 4002006 swb_sx 4002006 100
+*SOURCE 40 managed 4002007 ? ?
+*TARGET 40 managed 4002007 bwbs_at+sw 4022007 100
+*SOURCE 40 managed 4002008 ? ?
+*TARGET 40 managed 4002008 bwbs_at+pl 4022008 100
+*SOURCE 40 managed 4002009 ? ?
+*TARGET 40 managed 4002009 bwbs_pl+at 4022009 100
+*SOURCE 40 managed 4003000 ? ?
+*TARGET 40 managed 4003000 bwbs_at 4023000 100
+*SOURCE 40 managed 4003001 ? ?
+*TARGET 40 managed 4003001 bwbs_sb 4003001 100
+*SOURCE 40 managed 4003002 ? ?
+*TARGET 40 managed 4003002 bwbs_pl 4023002 100
+*SOURCE 40 managed 4003003 ? ?
+*TARGET 40 managed 4003003 bwbs_sw 4023003 100
+*SOURCE 40 managed 4003004 ? ?
+*TARGET 40 managed 4003004 essf_sw 4023004 100
+*SOURCE 40 managed 4003005 ? ?
+*TARGET 40 managed 4003005 bwbs_sx 4023005 100
+*SOURCE 40 managed 4003006 ? ?
+*TARGET 40 managed 4003006 swb_sx 4023006 100
+*SOURCE 40 managed 4003007 ? ?
+*TARGET 40 managed 4003007 bwbs_at+sw 4023007 100
+*SOURCE 40 managed 4003008 ? ?
+*TARGET 40 managed 4003008 bwbs_at+pl 4023008 100
+*SOURCE 40 managed 4003009 ? ?
+*TARGET 40 managed 4003009 bwbs_pl+at 4023009 100
